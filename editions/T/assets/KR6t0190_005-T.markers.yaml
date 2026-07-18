@@ -1052,6 +1052,7 @@ markers:
   - {type: punctuation, offset: 1646, content: 。, id: ''}
   - {type: 'tls:seg', offset: 1646, content: '', id: KR6t0190_T_005-0298b16.s106}
   - {type: punctuation, offset: 1646, content: (, id: ''}
+  - {type: voice, offset: 1646, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1647, content: ), id: ''}
   - {type: punctuation, offset: 1652, content: 。, id: ''}
   - {type: 'tls:seg', offset: 1652, content: '', id: KR6t0190_T_005-0298b16.s107}
@@ -2522,4 +2523,4 @@ markers:
   - {type: line-break, offset: 4980, content: '', id: T_0304a08}
   - {type: indent, offset: 4980, content: 　, id: ''}
   back: []
-hash: sha256:594f31cd23283fced60658da03bd747277a1a54a708cb222e7f2d92647cf8936
+hash: sha256:6a539dcfaddf688588690f62e7d3942402fa3733ffaae13a3eda73b1536ed218

@@ -313,6 +313,7 @@ markers:
   - {type: punctuation, offset: 746, content: 。, id: ''}
   - {type: 'tls:seg', offset: 746, content: '', id: KR6t0190_T_001-0289a05.s51}
   - {type: punctuation, offset: 748, content: (, id: ''}
+  - {type: voice, offset: 748, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 749, content: ), id: ''}
   - {type: punctuation, offset: 752, content: 。, id: ''}
   - {type: 'tls:seg', offset: 752, content: '', id: KR6t0190_T_001-0289a05.s52}
@@ -441,6 +442,7 @@ markers:
   - {type: substitution, offset: 1048, original: 戸, replacement: 戶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20775}}
   - {type: substitution, offset: 1050, original: 戸, replacement: 戶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20775}}
   - {type: punctuation, offset: 1052, content: (, id: ''}
+  - {type: voice, offset: 1052, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1053, content: ), id: ''}
   - {type: line-break, offset: 1060, content: '', id: T_0290a20}
   - {type: line-break, offset: 1066, content: '', id: T_0290a21}
@@ -905,4 +907,4 @@ markers:
   - {type: line-break, offset: 2351, content: '', id: T_0291b10}
   - {type: indent, offset: 2351, content: 　, id: ''}
   back: []
-hash: sha256:44c35aea9e302eed6ebfbb4a87f911c8e9a297f9f4cc9f9e9ad0a47e48aa5f98
+hash: sha256:7ae1f0e15c14cfb02233a85dcbd446e3264c8e0cdb98cf9d9fc318d626d018e7
